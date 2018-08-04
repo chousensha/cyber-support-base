@@ -19,10 +19,12 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [SSL & TLS Security Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/)
 - [PadBuster - Automated script for performing Padding Oracle attacks](https://github.com/GDSSecurity/PadBuster)
 - [Let’s Encrypt](https://letsencrypt.org/)
+- [SSLScrape](https://github.com/cheetz/sslScrape)
 
 ## Automation
 
 - [hacker-scripts](https://github.com/NARKOZ/hacker-scripts)
+- [The Penetration Testers Framework](https://github.com/trustedsec/ptf)
 
 ## Safety checks
 
@@ -80,6 +82,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [WINspect - Powershell-based Windows Security Auditing Toolbox](https://github.com/A-mIn3/WINspect)
 - [icebreaker - get plaintext AD creds from internal network while outside AD env](https://github.com/DanMcInerney/icebreaker)
 - [RedSnarf - pen-testing / red-teaming tool for Windows environments](https://github.com/nccgroup/redsnarf)
+- [Spray](https://github.com/SpiderLabs/Spray)
 
 ## Web Security
 
@@ -112,6 +115,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Domain Hunter](https://github.com/threatexpress/domainhunter)
 - [S3Scanner - Scan for open S3 buckets and dump](https://github.com/sa7mon/S3Scanner)
 - [Drupwn](https://github.com/immunIT/drupwn)
+- [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
+- [SubBrute](https://github.com/TheRook/subbrute)
+- [tko-subs](https://github.com/anshumanbh/tko-subs)
 
 ## Reverse Engineering and Exploitation
 
@@ -120,6 +126,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [GDB dashboard](https://github.com/cyrus-and/gdb-dashboard)
 - [PEDA - Python Exploit Development Assistance for GDB](https://github.com/longld/peda)
 - [TWindbg - PEDA-like debugger UI for WinDbg](https://github.com/bruce30262/TWindbg)
+- [Cuckoo Sandbox](http://cuckoo.cert.ee/)
+- [x64dbg](https://x64dbg.com/#start)
 
 ## Malware analysis
 
@@ -154,6 +162,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Gitrob](https://github.com/michenriksen/gitrob)
 - [GitHarvester](https://github.com/metac0rtex/GitHarvester)
 - [GitMiner](https://github.com/UnkL4b/GitMiner)
+- [Truffle Hog](https://github.com/dxa4481/truffleHog)
 - [Intel Techniques Tools](https://inteltechniques.com/menu.html)
 - [LinkedInt: A LinkedIn scraper for reconnaissance during adversary simulation](https://github.com/mdsecactivebreach/LinkedInt)
 - [Robtex](https://www.robtex.com/)
@@ -161,10 +170,15 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [FOCA](https://www.elevenpaths.com/labstools/foca/index.html)
 - [OSINT Flowcharts](https://inteltechniques.com/blog/2018/03/06/updated-osint-flowcharts/)
 - [Wigle Wireless Network Mapper](https://wigle.net/)
+- [Censys subdomain finder](https://github.com/christophetd/censys-subdomain-finder)
+- [Domain Dossier](https://centralops.net/co/domaindossier.aspx)
+- [OSINT Team](https://github.com/IVMachiavelli/OSINT_Team_Links)
+- [OSINT Framework](http://osintframework.com/)
 
 ## Recon
 
 - [ReconScan - Network reconnaissance and vulnerability assessment tools](https://github.com/RoliSoft/ReconScan)
+- [Discover scripts](https://github.com/leebaird/discover)
 
 ## Exploits
 
@@ -196,6 +210,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [EQGRP Lost in Translation](https://github.com/x0rz/EQGRP_Lost_in_Translation)
 - [Red team Arsenal](https://github.com/flipkart-incubator/RTA)
 - [RouterSploit](https://github.com/threat9/routersploit)
+- [WarBerryPi - Tactical Exploitation](https://github.com/secgroundzero/warberry)
+- [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
+          
 
          
 
