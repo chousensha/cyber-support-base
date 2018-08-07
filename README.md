@@ -40,6 +40,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Pupy - opensource, cross-platform RAT and post-exploitation tool](https://github.com/n1nj4sec/pupy)
 - [UACME - Defeat UAC](https://github.com/hfiref0x/UACME)
 - [p0wnedShell - PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)
+- [mimikittenz - powershell tool for extracting juicy info from memory](https://github.com/putterpanda/mimikittenz)
 
 ## Miscellaneous toolkits
 
@@ -118,6 +119,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
 - [SubBrute](https://github.com/TheRook/subbrute)
 - [tko-subs](https://github.com/anshumanbh/tko-subs)
+- [XSS Payloads](https://github.com/foospidy/payloads/tree/master/other/xss)
+- [NoSQL injection payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection)
+- [Tplmap - Server-Side Template Injection](https://github.com/epinna/tplmap)
 
 ## Reverse Engineering and Exploitation
 
@@ -212,8 +216,11 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [WarBerryPi - Tactical Exploitation](https://github.com/secgroundzero/warberry)
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
-          
+- [RTFM](https://github.com/leostat/rtfm)          
 
-         
+ ## Linux security
+ 
+ - [mimipenguin - dump the login password from the current linux user](https://github.com/huntergregal/mimipenguin)
+ - [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
 
         
