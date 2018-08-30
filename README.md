@@ -41,6 +41,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [UACME - Defeat UAC](https://github.com/hfiref0x/UACME)
 - [p0wnedShell - PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)
 - [mimikittenz - powershell tool for extracting juicy info from memory](https://github.com/putterpanda/mimikittenz)
+- [Privilege Escalation & Post-Exploitation](https://rmusser.net/docs/Privilege%20Escalation%20&%20Post-Exploitation.html)
 
 ## Miscellaneous toolkits
 
@@ -55,6 +56,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [privacytools.io](https://www.privacytools.io/)
 - [StartPage Search Engine](https://www.startpage.com/)
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/blog/privacy-guides/advanced-privacy-and-anonymity-part-1)
+- [VBad - VBA Obfuscation Tools combined with an MS office document generator ](https://github.com/Pepitoh/VBad)
+- [GreatSCT - AV / whitelist bypass](https://github.com/GreatSCT/GreatSCT)
 
 ## Logs
 
@@ -74,6 +77,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [LogonTracer](https://github.com/JPCERTCC/LogonTracer)
 - [Threat Hunting Reconnaissance Toolkit](https://github.com/TonyPhipps/THRecon)
 - [NotRuler - detect Ruler usage](https://github.com/sensepost/notruler)
+- [DetectionLab - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices](https://github.com/clong/DetectionLab)
+- [Request Tracker for Incident Response](https://bestpractical.com/rtir/)
+        
 
 ## Windows security
 
@@ -84,6 +90,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [icebreaker - get plaintext AD creds from internal network while outside AD env](https://github.com/DanMcInerney/icebreaker)
 - [RedSnarf - pen-testing / red-teaming tool for Windows environments](https://github.com/nccgroup/redsnarf)
 - [Spray](https://github.com/SpiderLabs/Spray)
+- [Domain Password Audit Tool for Pentesters](https://github.com/clr2of8/DPAT)
 
 ## Web Security
 
@@ -184,12 +191,14 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [ReconScan - Network reconnaissance and vulnerability assessment tools](https://github.com/RoliSoft/ReconScan)
 - [Discover scripts](https://github.com/leebaird/discover)
 
-## Exploits
+## Exploits & payloads
 
 - [Tater - PowerShell implementation of the Hot Potato Windows Privilege Escalation exploit](https://github.com/Kevin-Robertson/Tater)
 - [PayloadsAllTheThings - A list of useful payloads and bypass for Web Application Security and Pentest/CT](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [Potato Privilege Escalation on Windows 7,8,10, Server 2008, Server 2012](https://github.com/foxglovesec/Potato)
 - [Rhino Security Labs exploits](https://github.com/RhinoSecurityLabs/Security-Research)
+- [luckystrike - PowerShell based utility for the creation of malicious Office macro documents](https://github.com/curi0usJack/luckystrike)
+- [CACTUSTORCH: Payload Generation for Adversary Simulations](https://github.com/mdsecactivebreach/CACTUSTORCH)
 
 ## Reporting
 
@@ -216,11 +225,25 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [RouterSploit](https://github.com/threat9/routersploit)
 - [WarBerryPi - Tactical Exploitation](https://github.com/secgroundzero/warberry)
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
-- [RTFM](https://github.com/leostat/rtfm)          
+- [RTFM](https://github.com/leostat/rtfm)
+- [MITRE™ ATT&CK tools](https://github.com/nshalabi/ATTACK-Tools)
 
  ## Linux security
  
  - [mimipenguin - dump the login password from the current linux user](https://github.com/huntergregal/mimipenguin)
  - [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
+ 
+ # Social engineering
+ 
+ - [ReelPhish](https://github.com/fireeye/ReelPhish)
+ - [evilginx2 - MITM framework](https://github.com/kgretzky/evilginx2)
+ - [CredSniper - phishing framework](https://github.com/ustayready/CredSniper)
+ - [Gophish](https://getgophish.com/documentation/)
+ - [King Phisher - Phishing Campaign Toolkit](https://github.com/securestate/king-phisher)
+ - [Phishing Frenzy - Ruby on Rails Phishing Framework](https://github.com/pentestgeek/phishing-frenzy)
+ 
+ ## Wireless
+ 
+ - [eaphammer - Targeted evil twin attacks against WPA2-Enterprise](https://github.com/s0lst1c3/eaphammer)
 
         
