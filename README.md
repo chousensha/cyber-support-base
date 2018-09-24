@@ -59,10 +59,6 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [VBad - VBA Obfuscation Tools combined with an MS office document generator ](https://github.com/Pepitoh/VBad)
 - [GreatSCT - AV / whitelist bypass](https://github.com/GreatSCT/GreatSCT)
 
-## Logs
-
-- [EventID - Windows Event Log Analysis](http://www.eventid.net/)
-
 ## Hardening
 
 - [Hardentools - utility that disables a number of risky Windows features](https://github.com/securitywithoutborders/hardentools)
@@ -79,6 +75,12 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [NotRuler - detect Ruler usage](https://github.com/sensepost/notruler)
 - [DetectionLab - Vagrant & Packer scripts to build a lab environment complete with security tooling and logging best practices](https://github.com/clong/DetectionLab)
 - [Request Tracker for Incident Response](https://bestpractical.com/rtir/)
+- [Cybersponse](https://cybersponse.com/community-edition/)
+- [JPCERT Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/#)
+- [Rekall Memory Forensic Framework](https://github.com/google/rekall)
+- [Kansa - A Powershell incident response framework](https://github.com/davehull/Kansa)
+- [EventID - Windows Event Log Analysis](http://www.eventid.net/)
+- [SysmonSearch](https://blog.jpcert.or.jp/2018/09/visualise-sysmon-logs-and-detect-suspicious-device-behaviour--sysmonsearch.html)
         
 
 ## Windows security
@@ -91,13 +93,13 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [RedSnarf - pen-testing / red-teaming tool for Windows environments](https://github.com/nccgroup/redsnarf)
 - [Spray](https://github.com/SpiderLabs/Spray)
 - [Domain Password Audit Tool for Pentesters](https://github.com/clr2of8/DPAT)
+- [PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server](https://github.com/NetSPI/PowerUpSQL)
 
 ## Web Security
 
 - [Gobuster](https://github.com/OJ/gobuster)
 - [Knock Subdomain Scan](https://github.com/guelfoweb/knock)
 - [Cross-Site Content (Data) Hijacking (XSCH) PoC Project](https://github.com/nccgroup/CrossSiteContentHijacking)
-- [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
 - [Sublist3r](https://github.com/aboul3la/Sublist3r)
 - [shellfire - Exploitation shell for exploiting LFI, RFI, and command injection vulnerabilities
 ](https://github.com/unix-ninja/shellfire)
@@ -121,7 +123,6 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Built With](https://builtwith.com/)
 - [What CMS?](https://whatcms.org/)
 - [Domain Hunter](https://github.com/threatexpress/domainhunter)
-- [S3Scanner - Scan for open S3 buckets and dump](https://github.com/sa7mon/S3Scanner)
 - [Drupwn](https://github.com/immunIT/drupwn)
 - [EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
 - [SubBrute](https://github.com/TheRook/subbrute)
@@ -129,6 +130,14 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [XSS Payloads](https://github.com/foospidy/payloads/tree/master/other/xss)
 - [NoSQL injection payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection)
 - [Tplmap - Server-Side Template Injection](https://github.com/epinna/tplmap)
+- [WPForce - Wordpress Attack Suite](https://github.com/n00py/WPForce)
+
+## Cloud Security
+
+- [Bucket Finder](https://digi.ninja/projects/bucket_finder.php)
+- [S3Scanner - Scan for open S3 buckets and dump](https://github.com/sa7mon/S3Scanner)
+- [Nimbostratus - Tools for fingerprinting and exploiting Amazon cloud infrastructures](https://github.com/andresriancho/nimbostratus)
+
 
 ## Reverse Engineering and Exploitation
 
@@ -139,6 +148,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [TWindbg - PEDA-like debugger UI for WinDbg](https://github.com/bruce30262/TWindbg)
 - [Cuckoo Sandbox](http://cuckoo.cert.ee/)
 - [x64dbg](https://x64dbg.com/#start)
+- [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
+- [GDB Enhanced Features](https://github.com/hugsy/gef)
 
 ## Malware analysis
 
