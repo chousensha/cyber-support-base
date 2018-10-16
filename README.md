@@ -42,6 +42,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [p0wnedShell - PowerShell Runspace Post Exploitation Toolkit](https://github.com/Cn33liz/p0wnedShell)
 - [mimikittenz - powershell tool for extracting juicy info from memory](https://github.com/putterpanda/mimikittenz)
 - [Privilege Escalation & Post-Exploitation](https://rmusser.net/docs/Privilege%20Escalation%20&%20Post-Exploitation.html)
+- [GimmeCreds - quickly dump all credz from known locations](https://github.com/0xmitsurugi/gimmecredz)
+- [Lanmaster Linux built-in shells](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
+- [Python PTY backdoors](https://github.com/infodox/python-pty-shells)
 
 ## Miscellaneous toolkits
 
@@ -131,6 +134,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [NoSQL injection payloads](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/NoSQL%20injection)
 - [Tplmap - Server-Side Template Injection](https://github.com/epinna/tplmap)
 - [WPForce - Wordpress Attack Suite](https://github.com/n00py/WPForce)
+- [Weevely - Weaponized web shell](https://github.com/epinna/weevely3)
 
 ## Cloud Security
 
@@ -238,6 +242,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
 - [RTFM](https://github.com/leostat/rtfm)
 - [MITRE™ ATT&CK tools](https://github.com/nshalabi/ATTACK-Tools)
+- [Unicorn - PowerShell downgrade attack and inject shellcode straight into memory](https://github.com/trustedsec/unicorn)
 
  ## Linux security
  
