@@ -45,6 +45,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [GimmeCreds - quickly dump all credz from known locations](https://github.com/0xmitsurugi/gimmecredz)
 - [Lanmaster Linux built-in shells](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 - [Python PTY backdoors](https://github.com/infodox/python-pty-shells)
+- [FuzzySecurity Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 
 ## Miscellaneous toolkits
 
@@ -135,6 +136,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Tplmap - Server-Side Template Injection](https://github.com/epinna/tplmap)
 - [WPForce - Wordpress Attack Suite](https://github.com/n00py/WPForce)
 - [Weevely - Weaponized web shell](https://github.com/epinna/weevely3)
+- [zseano tutorials](https://zseano.com/)
 
 ## Cloud Security
 
@@ -154,6 +156,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [x64dbg](https://x64dbg.com/#start)
 - [ROPgadget](https://github.com/JonathanSalwan/ROPgadget)
 - [GDB Enhanced Features](https://github.com/hugsy/gef)
+- [Corelan blog](https://www.corelan.be/)
 
 ## Malware analysis
 
@@ -261,5 +264,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
  ## Wireless
  
  - [eaphammer - Targeted evil twin attacks against WPA2-Enterprise](https://github.com/s0lst1c3/eaphammer)
+
+## CTF
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists)
 
         
