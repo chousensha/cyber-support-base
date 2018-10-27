@@ -67,7 +67,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 
 - [Hardentools - utility that disables a number of risky Windows features](https://github.com/securitywithoutborders/hardentools)
 
-## DFIR
+## DFIR / Blue Team
 
 - [FireEye Free Security Software](https://www.fireeye.com/services/freeware.html)
 - [Windows-Prefetch-Parser](https://github.com/PoorBillionaire/Windows-Prefetch-Parser)
@@ -85,6 +85,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Kansa - A Powershell incident response framework](https://github.com/davehull/Kansa)
 - [EventID - Windows Event Log Analysis](http://www.eventid.net/)
 - [SysmonSearch](https://blog.jpcert.or.jp/2018/09/visualise-sysmon-logs-and-detect-suspicious-device-behaviour--sysmonsearch.html)
+- [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
         
 
 ## Windows security
@@ -137,6 +138,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [WPForce - Wordpress Attack Suite](https://github.com/n00py/WPForce)
 - [Weevely - Weaponized web shell](https://github.com/epinna/weevely3)
 - [zseano tutorials](https://zseano.com/)
+- [droopescan - plugin-based scanner for several CMS's](https://github.com/droope/droopescan)
 
 ## Cloud Security
 
@@ -203,11 +205,13 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Domain Dossier](https://centralops.net/co/domaindossier.aspx)
 - [OSINT Team](https://github.com/IVMachiavelli/OSINT_Team_Links)
 - [OSINT Framework](http://osintframework.com/)
+- [Danger-zone - Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files](https://github.com/woj-ciech/Danger-zone)
 
 ## Recon
 
 - [ReconScan - Network reconnaissance and vulnerability assessment tools](https://github.com/RoliSoft/ReconScan)
 - [Discover scripts](https://github.com/leebaird/discover)
+- [Reconnoitre](https://github.com/codingo/Reconnoitre)
 
 ## Exploits & payloads
 
@@ -223,7 +227,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Serpico - SimplE RePort wrIting and CollaboratiOn tool](https://github.com/SerpicoProject/Serpico)
 - [Vulnreport - Pentesting management and automation platform](https://github.com/salesforce/vulnreport)
 
-## Offensive security / red teaming
+## Offensive security / Red Team
 
 - [Nishang - PowerShell for penetration testing and offensive security](https://github.com/samratashok/nishang)
 - [Python tools for penetration testers](https://github.com/dloss/python-pentest-tools)
@@ -246,6 +250,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [RTFM](https://github.com/leostat/rtfm)
 - [MITRE™ ATT&CK tools](https://github.com/nshalabi/ATTACK-Tools)
 - [Unicorn - PowerShell downgrade attack and inject shellcode straight into memory](https://github.com/trustedsec/unicorn)
+- [net-creds - Sniffs sensitive data from interface or pcap](https://github.com/DanMcInerney/net-creds)
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
+- [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
 
  ## Linux security
  
