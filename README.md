@@ -1,11 +1,13 @@
 # cyber-support-base
 Collection of bookmarked tools for security, red teaming, blue teaming, pentesting and other
 
-## Online password cracking
+## Cracking
 
 - [CrackStation](https://crackstation.net/)
 - [HashKiller](https://hashkiller.co.uk/md5-decrypter.aspx)
 - [MD5 conversion and MD5 reverse lookup](https://md5.gromweb.com/)
+- [VNC Password Decrypter](https://github.com/jeroennijhof/vncpwd)
+- [Hashes.org](https://hashes.org/)
 
 ## Conversion
 
@@ -86,6 +88,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [EventID - Windows Event Log Analysis](http://www.eventid.net/)
 - [SysmonSearch](https://blog.jpcert.or.jp/2018/09/visualise-sysmon-logs-and-detect-suspicious-device-behaviour--sysmonsearch.html)
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
+- [Digital Forensics Magic Number](https://asecuritysite.com/forensics/magic)
         
 
 ## Windows security
@@ -139,6 +142,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Weevely - Weaponized web shell](https://github.com/epinna/weevely3)
 - [zseano tutorials](https://zseano.com/)
 - [droopescan - plugin-based scanner for several CMS's](https://github.com/droope/droopescan)
+- [Online JavaScript beautifier](https://beautifier.io/)
+- [XSStrike - Advanced XSS Detection Suite](https://github.com/s0md3v/XSStrike)
 
 ## Cloud Security
 
@@ -206,6 +211,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [OSINT Team](https://github.com/IVMachiavelli/OSINT_Team_Links)
 - [OSINT Framework](http://osintframework.com/)
 - [Danger-zone - Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files](https://github.com/woj-ciech/Danger-zone)
+- [SpiderFoot - OSINT automation](https://github.com/smicallef/spiderfoot)
 
 ## Recon
 
@@ -226,6 +232,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 
 - [Serpico - SimplE RePort wrIting and CollaboratiOn tool](https://github.com/SerpicoProject/Serpico)
 - [Vulnreport - Pentesting management and automation platform](https://github.com/salesforce/vulnreport)
+- [nmap-bootstrap-xsl](https://github.com/honze-net/nmap-bootstrap-xsl)
 
 ## Offensive security / Red Team
 
@@ -259,7 +266,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
  - [mimipenguin - dump the login password from the current linux user](https://github.com/huntergregal/mimipenguin)
  - [linux-exploit-suggester](https://github.com/mzet-/linux-exploit-suggester)
  
- # Social engineering
+ ## Social engineering
  
  - [ReelPhish](https://github.com/fireeye/ReelPhish)
  - [evilginx2 - MITM framework](https://github.com/kgretzky/evilginx2)
@@ -274,5 +281,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 
 ## CTF
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/playlists)
+
+## Browser add-ons
+- [Nimbus Capture](https://nimbusweb.me/screenshot.php)
+- [Full Web Page Screenshots](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
 
         
