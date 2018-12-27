@@ -64,6 +64,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Advanced Privacy and Anonymity Using VMs, VPN’s, Tor](https://www.ivpn.net/blog/privacy-guides/advanced-privacy-and-anonymity-part-1)
 - [VBad - VBA Obfuscation Tools combined with an MS office document generator ](https://github.com/Pepitoh/VBad)
 - [GreatSCT - AV / whitelist bypass](https://github.com/GreatSCT/GreatSCT)
+- [Ebowla - Framework for Making Environmental Keyed Payloads](https://github.com/Genetic-Malware/Ebowla)
 
 ## Hardening
 
@@ -89,6 +90,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [SysmonSearch](https://blog.jpcert.or.jp/2018/09/visualise-sysmon-logs-and-detect-suspicious-device-behaviour--sysmonsearch.html)
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
 - [Digital Forensics Magic Number](https://asecuritysite.com/forensics/magic)
+- [SwiftOnSecurity sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
         
 
 ## Windows security
@@ -144,6 +146,10 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [droopescan - plugin-based scanner for several CMS's](https://github.com/droope/droopescan)
 - [Online JavaScript beautifier](https://beautifier.io/)
 - [XSStrike - Advanced XSS Detection Suite](https://github.com/s0md3v/XSStrike)
+- [Offensive Web Testing Framework (OWTF)](https://github.com/owtf/owtf)
+- [Joomlavs - black box Joomla vulnerability scanner](https://github.com/rastating/joomlavs)
+- [OWASP XSSER](https://www.owasp.org/index.php/OWASP_XSSER)
+- [DOM XSS Scanner](http://www.domxssscanner.com/)
 
 ## Cloud Security
 
@@ -179,6 +185,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Default passwords](https://datarecovery.com/rd/default-passwords/)
 - [WPS Flaw Vulnerable Devices](https://docs.google.com/spreadsheets/d/1uJE5YYSP-wHUu5-smIMTmJNu84XAviw-yyTmHyVGmT0/edit#gid=0)
 - [RouterPasswords](http://www.routerpasswords.com/)
+- [CIRT.net default passwords](https://www.cirt.net/passwords)
 
 ## OSINT
 
@@ -198,6 +205,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Gitrob](https://github.com/michenriksen/gitrob)
 - [GitHarvester](https://github.com/metac0rtex/GitHarvester)
 - [GitMiner](https://github.com/UnkL4b/GitMiner)
+- [Gitleaks](https://github.com/zricethezav/gitleaks)
 - [Truffle Hog](https://github.com/dxa4481/truffleHog)
 - [Intel Techniques Tools](https://inteltechniques.com/menu.html)
 - [LinkedInt: A LinkedIn scraper for reconnaissance during adversary simulation](https://github.com/mdsecactivebreach/LinkedInt)
@@ -260,6 +268,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [net-creds - Sniffs sensitive data from interface or pcap](https://github.com/DanMcInerney/net-creds)
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
 - [Red Teaming/Adversary Simulation Toolkit](https://github.com/infosecn1nja/Red-Teaming-Toolkit)
+- [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
+- [Merlin - cross-platform post-exploitation HTTP/2 C&C server and agent](https://github.com/Ne0nd0g/merlin)
+- [ODAT: Oracle Database Attacking Tool](https://github.com/quentinhardy/odat)
 
  ## Linux security
  
@@ -285,5 +296,12 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 ## Browser add-ons
 - [Nimbus Capture](https://nimbusweb.me/screenshot.php)
 - [Full Web Page Screenshots](https://addons.mozilla.org/en-US/firefox/addon/fireshot/)
+
+## Application Security
+- [Gauntlt - ruggedization framework that enables security testing that is usable by devs, ops and security](https://github.com/gauntlt/gauntlt)
+- [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check)
+- [RetireJS - scanner detecting the use of JavaScript libraries with known vulnerabilities](https://github.com/retirejs/retire.js/)
+- [devsecops-reference-architectures](https://github.com/ayeks/devsecops-reference-architectures)
+- [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 
         
