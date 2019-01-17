@@ -31,6 +31,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 ## Safety checks
 
 - [have i been pwned?](https://haveibeenpwned.com/)
+- [SpyCloud](https://spycloud.com/)
 
 ## Post Exploitation
 
@@ -65,6 +66,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [VBad - VBA Obfuscation Tools combined with an MS office document generator ](https://github.com/Pepitoh/VBad)
 - [GreatSCT - AV / whitelist bypass](https://github.com/GreatSCT/GreatSCT)
 - [Ebowla - Framework for Making Environmental Keyed Payloads](https://github.com/Genetic-Malware/Ebowla)
+- [sshuttle: where transparent proxy meets VPN meets ssh](https://github.com/sshuttle/sshuttle)
 
 ## Hardening
 
@@ -150,6 +152,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Joomlavs - black box Joomla vulnerability scanner](https://github.com/rastating/joomlavs)
 - [OWASP XSSER](https://www.owasp.org/index.php/OWASP_XSSER)
 - [DOM XSS Scanner](http://www.domxssscanner.com/)
+- [WhatWeb - Next generation web scanner](https://github.com/urbanadventurer/WhatWeb)
+- [GoLismero - The Web Knife](https://github.com/golismero/golismero)
 
 ## Cloud Security
 
@@ -220,6 +224,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [OSINT Framework](http://osintframework.com/)
 - [Danger-zone - Correlate data between domains, IPs and email addresses, present it as a graph and store everything into Elasticsearch and JSON files](https://github.com/woj-ciech/Danger-zone)
 - [SpiderFoot - OSINT automation](https://github.com/smicallef/spiderfoot)
+- [intoDNS - checks the health and configuration and provides DNS report and mail servers report](https://intodns.com/)
+- [https://w3dt.net/ - www tools](https://w3dt.net/)
+- [OnlineDomainTools](http://online-domain-tools.com/)
 
 ## Recon
 
@@ -285,6 +292,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
  - [Gophish](https://getgophish.com/documentation/)
  - [King Phisher - Phishing Campaign Toolkit](https://github.com/securestate/king-phisher)
  - [Phishing Frenzy - Ruby on Rails Phishing Framework](https://github.com/pentestgeek/phishing-frenzy)
+ - [Domain Hunter - Checks expired domains for categorization/reputation](https://github.com/threatexpress/domainhunter)
  
  ## Wireless
  
