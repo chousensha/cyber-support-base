@@ -311,5 +311,6 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [RetireJS - scanner detecting the use of JavaScript libraries with known vulnerabilities](https://github.com/retirejs/retire.js/)
 - [devsecops-reference-architectures](https://github.com/ayeks/devsecops-reference-architectures)
 - [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
-
+- [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
+- [grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
         
