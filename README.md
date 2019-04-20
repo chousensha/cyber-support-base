@@ -93,6 +93,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection)
 - [Digital Forensics Magic Number](https://asecuritysite.com/forensics/magic)
 - [SwiftOnSecurity sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
+- [sysmon-modular](https://github.com/olafhartong/sysmon-modular)
+- [awesome incident response](https://github.com/meirwah/awesome-incident-response)
         
 
 ## Windows security
@@ -154,6 +156,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [DOM XSS Scanner](http://www.domxssscanner.com/)
 - [WhatWeb - Next generation web scanner](https://github.com/urbanadventurer/WhatWeb)
 - [GoLismero - The Web Knife](https://github.com/golismero/golismero)
+- [Awesome XSS stuff](https://github.com/s0md3v/AwesomeXSS)
 
 ## Cloud Security
 
@@ -278,6 +281,9 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Active Directory Kill Chain Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [Merlin - cross-platform post-exploitation HTTP/2 C&C server and agent](https://github.com/Ne0nd0g/merlin)
 - [ODAT: Oracle Database Attacking Tool](https://github.com/quentinhardy/odat)
+- [redteam-plan](https://github.com/magoo/redteam-plan)
+- [Red-Team-Infrastructure-Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+- [Bizploit - SAP penetration testing](https://www.onapsis.com/research/free-solutions)
 
  ## Linux security
  
@@ -313,4 +319,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 - [grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
+
+## Mobile security
+- [Drozer - The Leading Security Assessment Framework for Android](https://github.com/mwrlabs/drozer)
         
