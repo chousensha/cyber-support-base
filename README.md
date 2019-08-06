@@ -95,6 +95,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [SwiftOnSecurity sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)
 - [sysmon-modular](https://github.com/olafhartong/sysmon-modular)
 - [awesome incident response](https://github.com/meirwah/awesome-incident-response)
+- [windows events samples associated to specific attack and post-exploitation techniques](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES)
         
 
 ## Windows security
