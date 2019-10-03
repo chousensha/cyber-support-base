@@ -49,6 +49,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Lanmaster Linux built-in shells](https://www.lanmaster53.com/2011/05/7-linux-shells-using-built-in-tools/)
 - [Python PTY backdoors](https://github.com/infodox/python-pty-shells)
 - [FuzzySecurity Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
+- [GTFOBins](https://gtfobins.github.io/)
+- [Living Off The Land Binaries And Scripts](https://github.com/LOLBAS-Project/LOLBAS)
 
 ## Miscellaneous toolkits
 
@@ -110,6 +112,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [Domain Password Audit Tool for Pentesters](https://github.com/clr2of8/DPAT)
 - [PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server](https://github.com/NetSPI/PowerUpSQL)
 
+
 ## Web Security
 
 - [Gobuster](https://github.com/OJ/gobuster)
@@ -158,6 +161,8 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [WhatWeb - Next generation web scanner](https://github.com/urbanadventurer/WhatWeb)
 - [GoLismero - The Web Knife](https://github.com/golismero/golismero)
 - [Awesome XSS stuff](https://github.com/s0md3v/AwesomeXSS)
+- [ysoserial - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization](https://github.com/frohoff/ysoserial)
+- [SubFinder is a subdomain discovery tool that discovers valid subdomains for websites](https://github.com/subfinder/subfinder)
 
 ## Cloud Security
 
@@ -320,6 +325,7 @@ Collection of bookmarked tools for security, red teaming, blue teaming, pentesti
 - [awesome-devsecops](https://github.com/devsecops/awesome-devsecops)
 - [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)
 - [grep rough audit - source code auditing tool](https://github.com/wireghoul/graudit)
+- [tracy - A tool designed to assist with finding all sinks and sources of a web application](https://github.com/nccgroup/tracy)
 
 ## Mobile security
 - [Drozer - The Leading Security Assessment Framework for Android](https://github.com/mwrlabs/drozer)
